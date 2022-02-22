@@ -1,0 +1,44 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  cursor: url('https://cdn.glitch.global/bd16d93b-de3b-46b7-8268-db0a5abd4cac/Untitled-1.png?v=1645510437090'), auto;
+
+}
+canvas {
+  display: block;
+}
+
+.titletext {
+  font-family: 'Syne', sans-serif;
+  letter-spacing: 10px;
+  user-select: none;
+  text-align: center;
+}
+
+.button {
+  background-color: white;
+  color: black;
+  letter-spacing: 2px;
+  user-select: none;
+  font-family: 'Syne', sans-serif;
+  border-radius: 100px;
+  border: 1px solid black;
+  cursor: url('https://cdn.glitch.global/bd16d93b-de3b-46b7-8268-db0a5abd4cac/unt2itled-1.png?v=1645312331962'), auto;
+}
+
+.button:hover {
+  border: 1px solid #ABC6FF;
+  color: white;
+  background-color: #ABC6FF;
+  cursor: url('https://cdn.glitch.global/bd16d93b-de3b-46b7-8268-db0a5abd4cac/unt2itled-1.png?v=1645312331962'), auto;
+}
+
+.cover {
+  width: 100%;
+  height: 30%;
+}
+
+.transition {
+  width: 100%;
+  height: 100%;
+}
